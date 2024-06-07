@@ -12,7 +12,7 @@ header {
   background-color: rgb(44, 44, 216);
 
 }
-input{
+input {
   color: rgb(155, 120,320);
   }
   p{
@@ -21,7 +21,7 @@ input{
   p > span {
   color: black;
   }
-  hr{
+  hr {
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 40px;
